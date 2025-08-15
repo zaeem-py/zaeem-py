@@ -14,13 +14,13 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=ubaidullah-se&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zaeem-py&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/grid-snake.svg"
+  <img  src="https://github.com/zaeem-py/zaeem-py/blob/main/images/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -32,7 +32,7 @@
 <td width="50%" align="center">
   
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaeem-py&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
