@@ -32,12 +32,13 @@
 <td width="50%" align="center">
   
   
-  <img  alt="Mark streak" src="https://streak-stats.demolab.com?user=zaeem-py&theme=light&hide_border=false" /> 
+ <!--- <img  alt="Mark streak" src="https://streak-stats.demolab.com?user=zaeem-py&theme=light&hide_border=false" /> --->
+  <img  alt="Mark streak" src="https://streak-stats.demolab.com?user=zaeem-py=&theme=omni&hide_border=false&border_radius=6.9" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zaeem-py&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zaeem-py&show_icons=true&theme=omni" />
 
 </td>
 </tr>
